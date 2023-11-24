@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+D:\mphasis\problem statement\days\day 15\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
